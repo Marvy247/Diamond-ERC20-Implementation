@@ -33,11 +33,11 @@ The Diamond pattern enables the creation of contracts with multiple facets, each
 
 The contracts have been deployed to Sepolia testnet:
 
-- DiamondCutFacet: `0xd38e154BDdDde4b0057D97C83571A787cBC3cFdC`
-- DiamondLoupeFacet: `0x21Aec541b1844Adf902Bf210a59860Fd85c89a47`
-- OwnershipFacet: `0x930D8bA225Dc98292Db8be10A7982950E2AE3a36`
-- ERC20Facet: `0x8e1F3F74C04569F8B5A5F69a5dEf71D2bF81E4fa`
-- Diamond (Main Contract): `0x935ec8A0C565b6a281D54920430C67fF9c4088F6`
+- DiamondCutFacet: `0x2f1F68931265cDA573679991AFA405B5Fb799115`
+- DiamondLoupeFacet: `0x506D78Ce1140abf6130c50681FeDB6CDe49DF5d5`
+- OwnershipFacet: `0x019185dE997101dd47386dD6Acd7DC3986765E9A`
+- ERC20Facet: `0xDb57e85942744C2fa6bFd4605c45E32aF03BA44f`
+- Diamond (Main Contract): `0xba7c67a315b17583B65fAA3FB2aEBa3341534574`
 
 ## Token Details
 
