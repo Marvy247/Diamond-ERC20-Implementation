@@ -2,7 +2,7 @@
 pragma solidity ^0.8.20;
 
 /******************************************************************************\
-* Author: Nick Mudge <nick@perfectabstractions.com> (https://twitter.com/mudgen)
+* Author: The Dude
 * EIP-2535 Diamonds: https://eips.ethereum.org/EIPS/eip-2535
 *
 * Implementation of a diamond.
